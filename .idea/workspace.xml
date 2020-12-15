@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dart-sass/sass.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,6 +48,7 @@
       <workItem from="1607096933555" duration="3681000" />
       <workItem from="1607101482808" duration="719000" />
       <workItem from="1607525082448" duration="44000" />
+      <workItem from="1607698759714" duration="1449000" />
     </task>
     <servers />
   </component>
